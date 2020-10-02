@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc4c1496-a978-44d5-93d0-845edc301693" name="Default Changelist" comment="" />
+    <list default="true" id="46b453a9-a0c4-48b6-b774-ca9b14e40bf9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Labs/Album_Lab3/src/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Album_Lab3/src/AlbumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Album_Lab3/src/Figurinha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Album_Lab3/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/TuiterLite_Lab5/src/NivelUsuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/TuiterLite_Lab5/src/Tuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/TuiterLite_Lab5/src/TuiterLite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/TuiterLite_Lab5/src/TuiterLiteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/TuiterLite_Lab5/src/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Comp2_2020_PLE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fração_Lab2/src/Fracao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fração_Lab2/src/FracaoTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1hN8BJc6GnTBWsYAphNFuLqwPyi" />
+  <component name="ProjectId" id="1hWui8lF2B2NblZxbq9IUZFsI87" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,43 +39,84 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Labs/TuiterLite_Lab5" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\Programacao\Aula\Comp2_2020_PLE\Labs\TuiterLite_Lab5\src" />
+      <recent name="D:\Desktop\Programacao\Aula\Comp2_2020_PLE\Labs\Album_Lab3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TuiterLiteTest">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
+      <module name="Comp2_2020_PLE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TuiterLiteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Comp2_2020_PLE" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TuiterLiteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TuiterLiteTest" />
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cc4c1496-a978-44d5-93d0-845edc301693" name="Default Changelist" comment="" />
-      <created>1599840053019</created>
+      <changelist id="46b453a9-a0c4-48b6-b774-ca9b14e40bf9" name="Default Changelist" comment="" />
+      <created>1600139297541</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599840053019</updated>
+      <updated>1600139297541</updated>
     </task>
-    <task id="LOCAL-00001" summary="Mudando nome da pasta">
-      <created>1599840197954</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1599840197954</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mudando nome da pasta" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mudando nome da pasta" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="318" y="0" key="CommitChangelistDialog2" timestamp="1599840193876">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1601640519820">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="318" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599840193876" />
-    <state x="387" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1599840156576">
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1601640519820" />
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600435256219">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="387" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1599840156576" />
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1600435256219" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601640537237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601640537237" />
+    <state x="499" y="142" key="chooseDestDirectoryDialog" timestamp="1600435389281">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1600435389281" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1600140431831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1600140431831" />
+    <state x="387" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600435372017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1600435372017" />
+    <state x="65" y="0" key="new project wizard" timestamp="1601640373975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1601640373975" />
   </component>
 </project>
