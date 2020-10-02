@@ -24,7 +24,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Labs/TuiterLite_Lab5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Labs/Fração_Lab2" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -37,7 +37,7 @@
       <recent name="D:\Desktop\Programacao\Aula\Comp2_2020_PLE\Labs\Album_Lab3" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AlbumTest">
+  <component name="RunManager" selected="JUnit.FracaoTest">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Principal" />
       <module name="Comp2_2020_PLE" />
@@ -54,6 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FracaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Comp2_2020_PLE" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FracaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TuiterLiteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Comp2_2020_PLE" />
       <option name="PACKAGE_NAME" value="" />
@@ -65,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FracaoTest" />
         <item itemvalue="JUnit.AlbumTest" />
         <item itemvalue="JUnit.TuiterLiteTest" />
         <item itemvalue="Application.Principal" />
@@ -82,13 +92,25 @@
       <option name="presentableId" value="Default" />
       <updated>1600139297541</updated>
     </task>
+    <task id="LOCAL-00001" summary="tirando o album">
+      <created>1601651084954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601651084954</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tirando o album" />
+    <option name="LAST_COMMIT_MESSAGE" value="tirando o album" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Project_Structure" timestamp="1601650711933">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1601651187771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1601650711933" />
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1601651187771" />
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600435256219">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -97,10 +119,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="318" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601651078154" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601640537237">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601651201324">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601640537237" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601651201324" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601651105733">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
